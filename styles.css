@@ -1,0 +1,223 @@
+body {
+  background-color: #020403;
+  font-family: Rubik;
+}
+.encabezado {
+  padding: 40px;
+}
+
+@media screen and (max-width: 1100px) {
+  .encabezado {
+    margin: 20px, 25px;
+    padding: 25px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .encabezado {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .encabezado {
+    margin: 20px, 25px;
+    padding: 25px;
+  }
+}
+@media screen and (max-width: 580px) {
+  .experiencia {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .encabezado {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .imagen {
+    display:flex;
+    width:auto;
+  }
+}
+
+
+
+.encabezado:hover {
+  background: #fff;
+  color: #000;
+  padding: 20px;
+  margin: 10px;
+}
+
+@media screen and (max-width: 900px) {
+  .images-porta {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.p-2 {
+  color: #ffffff;
+  text-align: left;
+}
+.elemento-4 {
+  display: inline-block;
+  margin: 10px 50px;
+}
+.p-3 {
+  text-align: center;
+}
+
+.elemento {
+  display: inline-block;
+  padding-bottom: 20px;
+}
+
+.elemento-2 {
+  display: inline-block;
+  padding-bottom: 20px;
+  padding-left: 70px;
+}
+.exp-2 {
+  color: #fff;
+}
+
+.section-2 {
+  text-align: center;
+  color: #fff;
+}
+.number-8 {
+  color: #fff;
+  text-align: center;
+}
+
+.experiencia-2 {
+  text-align: center;
+  font-size: 50px;
+  color: #fff;
+}
+
+.header {
+  text-align: center;
+  padding: 25px;
+}
+
+.encabezado:hover {
+  color: #000;
+  background: #fff;
+}
+.parrfa-footer {
+  text-align: center;
+}
+.footer-2 {
+  color: #fff;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+  text-align: left;
+  font-size: 18px;
+}
+
+.perfil {
+  border: 15px solid #fff;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+}
+
+.imagen {
+  text-align: center;
+}
+
+h1 {
+  color: #daddad;
+  text-align: center;
+}
+h2 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 45px;
+}
+p {
+  color: #adadad;
+  text-align: center;
+  font-size: 18px;
+  font-family: Rubik;
+}
+.myspace {
+  font-size: 45px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.habilidades {
+  color: #ffffff;
+  text-align: center;
+  font-size: 45px;
+}
+
+.portafolio {
+  color: #ffffff;
+  text-align: center;
+  font-size: 45px;
+}
+
+.imagenes {
+  text-underline-position: auto;
+  text-underline-position: unset;
+}
+h4 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+}
+.images-porta {
+  text-align: center;
+  padding: 45px;
+}
+
+.footer {
+  text-align: center;
+  padding: 8px;
+}
+.llama {
+  border: 1px solid #ccc;
+  border-radius: 60px;
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  -ms-border-radius: 60px;
+  -o-border-radius: 60px;
+}
+
+.experiencia {
+  text-align: center;
+  color: #fff;
+}
+
+.primera {
+  padding: 8px;
+  background: rgb(46, 21, 15);
+  border-radius: 70%;
+  -webkit-border-radius: 70%;
+  -moz-border-radius: 70%;
+  -ms-border-radius: 70%;
+  -o-border-radius: 70%;
+}
+
+.logos {
+  text-align: center;
+}
+
+.segundos {
+  padding: 30px;
+}
